@@ -1,5 +1,7 @@
 **'기초(Hash/XOR) $\rightarrow$ 난제(ECC) $\rightarrow$ 상호작용 증명(Sigma/Schnorr) $\rightarrow$ 범용 증명(Circuit)'**
 
+*본 로드맵은 참고용으로 추후 변동될 수 있습니다.*
+
 ---
 
 # [Week 1] 암호학의 레고 블록: XOR, Hash, and Commitment
